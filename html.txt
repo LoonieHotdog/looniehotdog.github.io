@@ -18,6 +18,6 @@
     </style>
 </head>
 <body>
- <img src="looniehotdog.png" alt="A short description of the photo">
+<img src="looniehotdog.png" alt="my photo">
 </body>
 </html>
